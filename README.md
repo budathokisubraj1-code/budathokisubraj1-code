@@ -18,13 +18,19 @@ I enjoy working with data, performing analysis, building interactive dashboards,
 
 Data cleaning, PivotTables, sales analysis, and interactive dashboard development.
 
+[View Excel Project](https://github.com/budathokisubraj1-code/Excel-Sales-Analysis)
+
 **2. SQL Sales Analysis**
 
 15 practical business analysis tasks using PostgreSQL, covering sales, products, customers, and revenue.
 
+[View SQL Project](https://github.com/budathokisubraj1-code/SQL-Sales-Analysis)
+
 **3. Power BI Sales Analysis**
 
 Three interactive dashboard pages covering sales performance, product analysis, customer behavior, and payment analysis.
+
+[View Power BI Project](https://github.com/budathokisubraj1-code/Power-BI-Sales-Analysis)
 
 ### 🎯 Currently Learning
 
