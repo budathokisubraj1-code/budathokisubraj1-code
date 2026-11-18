@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Subraj Budathoki 👋
 
-<!--
-**budathokisubraj1-code/budathokisubraj1-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Excel | SQL | Power BI
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst interested in transforming raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, performing analysis, building interactive dashboards, and solving business problems using data.
+
+### 🛠️ Technical Skills
+
+- **Microsoft Excel:** Data Cleaning, PivotTables, Interactive Dashboards
+- **SQL (PostgreSQL):** Joins, CTEs, Subqueries, Window Functions, Business Analysis
+- **Power BI:** Data Modeling, DAX, Interactive Dashboards, Data Visualization
+
+### 📊 My Projects
+
+**1. Excel Sales Analysis**
+
+Data cleaning, PivotTables, sales analysis, and interactive dashboard development.
+
+**2. SQL Sales Analysis**
+
+15 practical business analysis tasks using PostgreSQL, covering sales, products, customers, and revenue.
+
+**3. Power BI Sales Analysis**
+
+Three interactive dashboard pages covering sales performance, product analysis, customer behavior, and payment analysis.
+
+### 🎯 Currently Learning
+
+- Advanced SQL
+- DAX and Power BI
+- Data Analytics and Business Intelligence
+
+### 📫 Connect With Me
+
+- GitHub: [budathokisubraj1-code](https://github.com/budathokisubraj1-code)
